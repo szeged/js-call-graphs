@@ -1,0 +1,6 @@
+[submodule "jalangi2"]
+	path = jalangi2
+	url = https://github.com/Samsung/jalangi2
+[submodule "nodeprof.js"]
+	path = nodeprof.js
+	url = https://github.com/szeged/nodeprof.js.git
