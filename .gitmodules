@@ -4,3 +4,6 @@
 [submodule "nodeprof.js"]
 	path = nodeprof.js
 	url = https://github.com/szeged/nodeprof.js.git
+[submodule "nodejs-cg"]
+	path = nodejs-cg
+	url = https://github.com/szeged/node.git
